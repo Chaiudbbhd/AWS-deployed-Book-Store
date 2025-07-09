@@ -17,4 +17,4 @@ Pull requests are welcomed. For major changes, please open an issue first to dis
 Happy Coding!!!
 
 ## Copyright
-© KAVINDU™
+© GANTEDA LAKSHMI PRASANNA KUMAR™
